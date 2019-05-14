@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://alaiwooqu.handyman-nelson.com/sitemap.xml
